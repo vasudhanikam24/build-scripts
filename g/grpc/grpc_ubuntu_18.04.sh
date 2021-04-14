@@ -5,7 +5,7 @@
 # Source repo   : https://github.com/grpc/grpc
 # Tested on     : Ubuntu 18.04
 # Script License: MIT License
-# Maintainer    : Lysanne Fernandes <@us.ibm.com>
+# Maintainer    : Lysanne Fernandes <lysannef@us.ibm.com>
 #
 # Disclaimer: This script has been tested in non-root mode on given
 # ==========  platform using the mentioned version of the package.
